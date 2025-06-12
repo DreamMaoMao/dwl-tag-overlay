@@ -1,0 +1,8 @@
+dwl-ipc-unstable-v2.c
+dwl-ipc-unstable-v2.h
+wlr-layer-shell-unstable-v1.c
+wlr-layer-shell-unstable-v1.h
+xdg-shell.c
+xdg-shell.h
+dwl-tag-overlay
+*.o
